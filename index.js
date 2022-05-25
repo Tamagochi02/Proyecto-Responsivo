@@ -39,4 +39,4 @@ app.post('/user', (req, res) => {
     })
 });
 
-app.listen(3001, () => console.log('Listening at port 3001'));
+app.listen(3000, () => console.log('Listening at port 3000'));
